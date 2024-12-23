@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"E:\\New folder\\minimap_test\\Source\\minimap_test\\minimap_test.Build.cs",
+		"E:\\New folder\\minimap_test\\Plugins\\MapSystem\\Source\\MapSystem\\MapSystem.Build.cs",
+		"E:\\New folder\\minimap_test\\Source\\minimap_test.Target.cs",
+		"E:\\New folder\\minimap_test\\Source\\minimap_testEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.0"
+}
