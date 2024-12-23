@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Plugins",
+    "\\Plugins\\MapSystem",
+    "\\Plugins\\MapSystem\\Resources",
+    "\\Plugins\\MapSystem\\Source",
+    "\\Plugins\\MapSystem\\Source\\MapSystem",
+    "\\Plugins\\MapSystem\\Source\\MapSystem\\Public",
+    "\\Plugins\\MapSystem\\Source\\MapSystem\\Public\\Core",
+    "\\Source"
+  ],
+  "SelectedNode": "\\minimap_test.sln",
+  "PreviewInSolutionExplorer": false
+}

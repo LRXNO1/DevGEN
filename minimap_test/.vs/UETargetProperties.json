@@ -1,0 +1,11 @@
+{
+  "minimap_testEditor": {
+    "Development - Win64": {
+      "BuildCommand": "\"E:\\realengine\\UE_5.5\\Engine\\Build\\BatchFiles\\Build.bat\" minimap_testEditor Win64 Development -Project=\"E:\\New folder\\minimap_test\\minimap_test.uproject\" -WaitMutex -architecture=x64",
+      "RebuildCommand": "\"E:\\realengine\\UE_5.5\\Engine\\Build\\BatchFiles\\Rebuild.bat\" minimap_testEditor Win64 Development -Project=\"E:\\New folder\\minimap_test\\minimap_test.uproject\" -WaitMutex -architecture=x64",
+      "CleanCommand": "\"E:\\realengine\\UE_5.5\\Engine\\Build\\BatchFiles\\Clean.bat\" minimap_testEditor Win64 Development -Project=\"E:\\New folder\\minimap_test\\minimap_test.uproject\" -WaitMutex -architecture=x64",
+      "DebugLaunchCommand": "E:\\realengine\\UE_5.5\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+      "DebugLaunchCommandArguments": "\"E:\\New folder\\minimap_test\\minimap_test.uproject\" -JsonDebugOutput"
+    }
+  }
+}
