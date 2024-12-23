@@ -1,0 +1,76 @@
+{
+  "targets": {
+    "minimap_test": {
+      "targetType": "Game",
+      "targetPath": "E:\\New folder\\minimap_test\\Source\\minimap_test.Target.cs",
+      "projectPath": "E:\\New folder\\minimap_test\\minimap_test.uproject",
+      "configurations": [
+        "DebugGame",
+        "Development",
+        "Shipping"
+      ],
+      "platforms": [
+        "Win64"
+      ],
+      "architectures": [],
+      "configurationsAndPlatforms": [
+        "DebugGame-Win64",
+        "Development-Win64",
+        "Shipping-Win64"
+      ]
+    },
+    "minimap_testEditor": {
+      "targetType": "Editor",
+      "targetPath": "E:\\New folder\\minimap_test\\Source\\minimap_testEditor.Target.cs",
+      "projectPath": "E:\\New folder\\minimap_test\\minimap_test.uproject",
+      "configurations": [
+        "DebugGame",
+        "Development"
+      ],
+      "platforms": [
+        "Win64"
+      ],
+      "architectures": [],
+      "configurationsAndPlatforms": [
+        "DebugGame-Win64",
+        "Development-Win64"
+      ]
+    },
+    "UnrealGame": {
+      "targetType": "Game",
+      "targetPath": "E:\\realengine\\UE_5.5\\Engine\\Source\\UnrealGame.Target.cs",
+      "projectPath": "",
+      "configurations": [
+        "DebugGame",
+        "Development",
+        "Shipping"
+      ],
+      "platforms": [
+        "Win64"
+      ],
+      "architectures": [],
+      "configurationsAndPlatforms": [
+        "DebugGame-Win64",
+        "Development-Win64",
+        "Shipping-Win64"
+      ]
+    },
+    "UnrealEditor": {
+      "targetType": "Editor",
+      "targetPath": "E:\\realengine\\UE_5.5\\Engine\\Source\\UnrealEditor.Target.cs",
+      "projectPath": "",
+      "configurations": [
+        "DebugGame",
+        "Development"
+      ],
+      "platforms": [
+        "Win64"
+      ],
+      "architectures": [],
+      "configurationsAndPlatforms": [
+        "DebugGame-Win64",
+        "Development-Win64"
+      ]
+    }
+  }
+}
