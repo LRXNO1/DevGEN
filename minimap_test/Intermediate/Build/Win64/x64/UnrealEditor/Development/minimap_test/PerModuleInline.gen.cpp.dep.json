@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\new folder\\minimap_test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\minimap_test\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\new folder\\minimap_test\\intermediate\\build\\win64\\x64\\minimap_testeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\new folder\\minimap_test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\minimap_test\\definitions.minimap_test.h",
+            "e:\\realengine\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
