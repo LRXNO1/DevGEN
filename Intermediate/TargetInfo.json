@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "minimap_test",
+			"Path": "..\\Source\\minimap_test.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "minimap_testEditor",
+			"Path": "..\\Source\\minimap_testEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
