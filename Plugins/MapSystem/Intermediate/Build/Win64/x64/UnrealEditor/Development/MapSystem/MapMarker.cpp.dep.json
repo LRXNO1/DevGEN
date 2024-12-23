@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue\\c550\\plugins\\mapsystem\\source\\mapsystem\\private\\core\\mapmarker.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue\\c550\\intermediate\\build\\win64\\x64\\c550editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue\\c550\\plugins\\mapsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mapsystem\\definitions.mapsystem.h",
+            "e:\\ue\\c550\\plugins\\mapsystem\\source\\mapsystem\\public\\core\\mapmarker.h",
+            "e:\\ue\\c550\\plugins\\mapsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\mapsystem\\uht\\mapmarker.generated.h",
+            "e:\\ue\\c550\\plugins\\mapsystem\\source\\mapsystem\\public\\core\\mapmarkercomponent.h",
+            "e:\\ue\\c550\\plugins\\mapsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\mapsystem\\uht\\mapmarkercomponent.generated.h",
+            "d:\\epic\\ue\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "d:\\epic\\ue\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\epic\\ue\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\epic\\ue\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\capsulecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

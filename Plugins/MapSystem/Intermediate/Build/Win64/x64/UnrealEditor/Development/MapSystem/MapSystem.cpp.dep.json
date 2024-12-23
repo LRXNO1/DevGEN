@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue\\c550\\plugins\\mapsystem\\source\\mapsystem\\private\\mapsystem.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue\\c550\\intermediate\\build\\win64\\x64\\c550editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue\\c550\\plugins\\mapsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mapsystem\\definitions.mapsystem.h",
+            "e:\\ue\\c550\\plugins\\mapsystem\\source\\mapsystem\\public\\mapsystem.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

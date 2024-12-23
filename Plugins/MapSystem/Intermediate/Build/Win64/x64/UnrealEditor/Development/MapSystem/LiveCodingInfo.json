@@ -1,0 +1,30 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MapSystem.cpp.obj": [
+			"MapCustomMarker.gen.cpp.obj",
+			"MapHelper.gen.cpp.obj",
+			"MapMarker.gen.cpp.obj",
+			"MapMarkerComponent.gen.cpp.obj",
+			"MapMarkerWidget.gen.cpp.obj",
+			"MapPathDrawerWidget.gen.cpp.obj",
+			"MapSystem.init.gen.cpp.obj",
+			"MapWidget.gen.cpp.obj",
+			"MinimapWidget.gen.cpp.obj",
+			"ScreenMarkerDrawerWidget.gen.cpp.obj",
+			"ScreenMarkerWidget.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"MapCustomMarker.cpp.obj",
+			"MapHelper.cpp.obj",
+			"MapMarker.cpp.obj",
+			"MapMarkerComponent.cpp.obj",
+			"MapSystem.cpp.obj",
+			"MapMarkerWidget.cpp.obj",
+			"MapPathDrawerWidget.cpp.obj",
+			"MapWidget.cpp.obj",
+			"MinimapWidget.cpp.obj",
+			"ScreenMarkerDrawerWidget.cpp.obj",
+			"ScreenMarkerWidget.cpp.obj"
+		]
+	}
+}
